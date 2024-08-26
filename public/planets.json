@@ -1,0 +1,14 @@
+[
+  {
+    "id": "earth",
+    "name": "Earth"
+  },
+  {
+    "id": "venus",
+    "name": "Venus"
+  },
+  {
+    "id": "mars",
+    "name": "Mars"
+  }
+]
